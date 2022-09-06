@@ -30,12 +30,10 @@ Moi! Kiva kun löysit tänne leivonnan ja hapanjuurien maailman
 mietteiden ja muistiinpanojen äärelle.
 
 Kirjoittelen harrasteluluonteista tutkiskelua, havaintoja ja kokeiluja
-kotikeittiöstä viljojen ja jauhojen ääreltä. Blogipuolelle myös naputtelen
-jorinaa ja höpinää paistopuuhista ja vähän niitä liippaavista aiheista hellan
+kotikeittiöstä viljojen ja jauhojen ääreltä. Syy-seuraussuhteiden oppimista, perinteitä ja historiaa.
+Blogipuolelle myös naputtelen jorinaa ja höpinää paistopuuhista ja vähän niitä liippaavista aiheista hellan
 ääreltä. Reseptejäkin löytyy, mutta niitä teen toistaiseksi harvakseltaan.
-Ehkä joku päivä niitäkin enemmän!
 
-Syy-seuraussuhteita oppimassa, perinteitä ja historiaa pohtimassa.
 Leivonnan juurilla mietteitä kirjoitellen insinöörin, amatöörikotileipurin ja harrastelijan
 näkökulmasta.
 
