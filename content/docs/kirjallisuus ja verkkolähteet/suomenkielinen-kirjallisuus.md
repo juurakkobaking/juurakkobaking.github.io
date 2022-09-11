@@ -83,3 +83,17 @@ Sosiaalidemokraattisen työlaisnaisliiton ja Finlands Svenska Marthaförbundin k
 > _pula-aikana tarvikkeiden vähyyden vuoksi niin paljon, että kirjasella_
 > _haluttiin tuoda uusia ohjeita leivontaan niillä raaka-aineilla, mitä vain oli saatavilla._\
 > _[- Löytö antikvariaatista](/posts/löytö-antikvariaatista)_
+
+### Makeeta
+**Kirjoittanut**: Markus Hurskainen\
+**Kustantaja**: Teos\
+**ISBN**: 9789523630680\
+**Aihepiirit**: `reseptit`, `oppaat`
+
+Kondiittori Markus Hurskaisen kirja vie kiehtovien makeiden leipomusten pariin.
+Kirja sisältää paljon erilaisia leivonnan tekniikoita, vinkkejä ja kondiittorintarkkoja
+reseptejä kaunein kuvien kera.
+
+Yksi omista makean leivonnan reseptikokoelmien suosikeistani. Kirja sisältää haastaviakin
+monivaiheisia reseptejä ja tekniikoita. Kirjan parissa pääsee tekemään ja oppimaan paljon uutta
+makean leivonnan maailmasta.
