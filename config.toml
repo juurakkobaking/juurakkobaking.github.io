@@ -1,14 +1,14 @@
-baseURL = "https://leivinkivi.github.io/"
+baseURL = "https://juurakkobaking.github.io/"
 
 languageCode = "fi-fi"
 
-title = "Leivinkivi"
+title = "Juurakko Baking"
 
 enableGitInfo = true
 
 
 [params]
-    BookRepo = "https://github.com/leivinkivi/leivinkivi.github.io"
+    BookRepo = "https://github.com/juurakkobaking/juurakkobaking.github.io"
     BookComments = false
     BookSection = "docs"
     BookSearch = true
