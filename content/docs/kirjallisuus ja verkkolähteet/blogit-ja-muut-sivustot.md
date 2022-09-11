@@ -5,45 +5,49 @@ bookFlatSection: true
 description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poimintoina myös erilaisia vastaan tulleita suosikkireseptejä.
 ---
 
-# Leivonta- ja ruokablogit
+# Suosikkipalat - Blogit, sivustot, foorumit
+
+> Kooste suosikkiblogejani ja muitakin sivustoja, mitä tulee seurailtua usein. Poimintoina myös erilaisia vastaan tulleita ja 
+> reseptivihkoon tallentuneita reseptejä.
+
+## Leivonta- ja ruokablogit
 
 * [Kinuskikissa](https://www.kinuskikissa.fi/)
 * [Annin uunissa](https://www.anninuunissa.fi/)
-* [The Perfect Loaf](https://www.theperfectloaf.com/)
-* [Foodgeek](https://foodgeek.dk/en/)
 * [Paistopintaa syvemmältä](https://paistopinta.net/)
 * [Hapanjuuri.fi](https://www.hapanjuuri.fi/)
 * [Leipäpaja](https://shop.leipapaja.com/)
+* [Kulinaari](https://kulinaari.com/)
+* [The Perfect Loaf](https://www.theperfectloaf.com/)
+* [Foodgeek](https://foodgeek.dk/en/)
 
-# Reseptit
+## Reseptit
 
-Kooste eri verkossa vastaan tulleista suosikkiresepteistäni, jotka myös jäivät "reseptivihkoon" talteen.
-
-## Kakut
+### Kakut
 
 * [Annin uunissa - Perinteinen maustekakku](https://www.anninuunissa.fi/perinteinen-maustekakku/)
 * [Kinuskikissa - Mutakakku](https://www.kinuskikissa.fi/maailman-paras-mutakakku)
 
-## Leivonnaiset
+### Leivonnaiset
 
 * [Ulpullat (hapanjuuripullat)](https://www.hs.fi/ruoka/reseptit/art-2000006168739.html)
 * [Kinuskikissan Korvapuustit](https://www.kinuskikissa.fi/korvapuustit) (mainio täyteresepti korvapuusteihin)
 
-## Leivät ja pizzat
+### Leivät ja pizzat
 
 * [Briossisämpylät](https://www.theperfectloaf.com/brioche-hamburger-buns/)
 * [Danish rye bread](https://foodgeek.dk/en/danish-rye-bread-recipe/)
 * [Roomalainen peltipizza](https://paistopinta.net/roomalainen-peltipizza/)
 
-# Wikit ja tietosivut
+## Wikit ja tietosivut
 
-## Molekyyligastronomia
+### Molekyyligastronomia
 
 Elintarvikekemian pariin uppoutuva tiedeblogi.
 
 https://molekyyligastronomia.fi/ 
 
-## Paistopintaa syvemmältä
+### Paistopintaa syvemmältä
 
 Reseptejä ja ruoanlaiton tiedettä, kulttuureja ja tarinoita kulinarismin syvässä päädyssä.
 
