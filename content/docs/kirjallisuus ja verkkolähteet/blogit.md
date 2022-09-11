@@ -1,0 +1,69 @@
+---
+title: "Blogit ja muut sivustot"
+type: "docs"
+bookFlatSection: true
+description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poimintoina myös erilaisia vastaan tulleita suosikkireseptejä.
+---
+
+# Leivonta- ja ruokablogit
+
+* [Kinuskikissa](https://www.kinuskikissa.fi/)
+* [Annin uunissa](https://www.anninuunissa.fi/)
+* [The Perfect Loaf](https://www.theperfectloaf.com/)
+* [Foodgeek](https://foodgeek.dk/en/)
+* [Paistopintaa syvemmältä](https://paistopinta.net/)
+* [Hapanjuuri.fi](https://www.hapanjuuri.fi/)
+* [Leipäpaja](https://shop.leipapaja.com/)
+
+# Reseptit
+
+Kooste eri verkossa vastaan tulleista suosikkiresepteistäni, jotka myös jäivät "reseptivihkoon" talteen.
+
+## Kakut
+
+* [Annin uunissa - Perinteinen maustekakku](https://www.anninuunissa.fi/perinteinen-maustekakku/)
+* [Kinuskikissa - Mutakakku](https://www.kinuskikissa.fi/maailman-paras-mutakakku)
+
+## Leivonnaiset
+
+* [Ulpullat (hapanjuuripullat)](https://www.hs.fi/ruoka/reseptit/art-2000006168739.html)
+* [Kinuskikissan Korvapuustit](https://www.kinuskikissa.fi/korvapuustit) (mainio täyteresepti korvapuusteihin)
+
+## Leivät ja pizzat
+
+* [Briossisämpylät](https://www.theperfectloaf.com/brioche-hamburger-buns/)
+* [Danish rye bread](https://foodgeek.dk/en/danish-rye-bread-recipe/)
+* [Roomalainen peltipizza](https://paistopinta.net/roomalainen-peltipizza/)
+
+# Wikit ja tietosivut
+
+## Molekyyligastronomia
+
+Elintarvikekemian pariin uppoutuva tiedeblogi.
+
+https://molekyyligastronomia.fi/ 
+
+## Paistopintaa syvemmältä
+
+Reseptejä ja ruoanlaiton tiedettä, kulttuureja ja tarinoita kulinarismin syvässä päädyssä.
+
+https://paistopinta.net/
+
+### Bakerpedia
+
+Englanninkielinen tietosivusto leivonnasta, leivonnan tieteestä,
+terminologiasta ja leivonnan biokemistasta.
+
+https://bakerpedia.com/forums/
+
+### The Quest for Sourdough / Sourdough Library
+
+1994 perustettu hapanjuurileivonnan kirjasto tiedon ja tarinoiden etsinnän ja tallentamisen
+matkalla. Sourdough Library kerää yhteen leipurit ja leipuriyhteisöt
+ympäri maailman jakamaan leivontaan liittyvää tietoa, tarinoita ja
+reseptejä tulevia sukupolvia varten, sekä ottaa vastaan ja tallettaa leipomoiden
+ja leipureiden hapanjuuria.
+
+Vinkki: Tänne voi tallentaa myös tiedot omasta hapanjuuresta verkkoon!
+
+https://www.questforsourdough.com/quest
