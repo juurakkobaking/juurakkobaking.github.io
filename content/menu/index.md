@@ -25,7 +25,7 @@ headless: true
 - **Kirjallisuus- ja verkkolähteet**
   - [Englanninkielinen kirjallisuus]({{< relref "/docs/kirjallisuus ja verkkolähteet/englanninkielinen-kirjallisuus" >}})
   - [Suomenkielinen kirjallisuus]({{< relref "/docs/kirjallisuus ja verkkolähteet/suomenkielinen-kirjallisuus" >}})
-  - [Blogit ja muut sivustot]({{< relref "/docs/kirjallisuus ja verkkolähteet/blogit-ja-muut-sivustot" >}})
+  - [Muistio - Blogit ja muut sivustot]({{< relref "/docs/kirjallisuus ja verkkolähteet/muistio-blogit-ja-muut-sivustot" >}})
 
 - **Yhteisöt ja toiminta**
   - [Sosiaalinen media]({{< relref "/docs/yhteisöt ja toiminta/some" >}})

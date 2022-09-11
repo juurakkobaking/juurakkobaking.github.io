@@ -1,5 +1,5 @@
 ---
-title: "Blogit ja muut sivustot"
+title: "Muistio - Blogit ja muut sivustot"
 type: "docs"
 bookFlatSection: true
 description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poimintoina myös erilaisia vastaan tulleita suosikkireseptejä.
@@ -21,7 +21,7 @@ description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poiminto
 * [The Perfect Loaf](https://www.theperfectloaf.com/)
 * [Foodgeek](https://foodgeek.dk/en/)
 
-## Reseptit
+## Reseptimuistio
 
 ### Kakut
 
@@ -35,9 +35,9 @@ description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poiminto
 
 ### Leivät ja pizzat
 
-* [Briossisämpylät](https://www.theperfectloaf.com/brioche-hamburger-buns/)
-* [Danish rye bread](https://foodgeek.dk/en/danish-rye-bread-recipe/)
-* [Roomalainen peltipizza](https://paistopinta.net/roomalainen-peltipizza/)
+* [The Perfect Loaf, Briossisämpylät](https://www.theperfectloaf.com/brioche-hamburger-buns/)
+* [Foodgeek, Danish rye bread](https://foodgeek.dk/en/danish-rye-bread-recipe/)
+* [Paistopintaa syvemmältä, Roomalainen peltipizza](https://paistopinta.net/roomalainen-peltipizza/)
 
 ## Wikit ja tietosivut
 
