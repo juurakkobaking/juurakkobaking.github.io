@@ -9,6 +9,7 @@ description: Spelttiä olin aiemmin käyttänyt leivonnassa satunnaisesti osana 
 tags:
   - jorinaa ja höpinää
   - speltti
+  - reseptit
 ---
 
 Speltti on alkuvehnä, josta myös nykymuotoinen vehnä polveutuu [[1, 2]](#Lähteet).
@@ -18,13 +19,12 @@ leivistä makeisiin leivonnaisiin. Vanhimmat todisteet speltin viljelystä yltä
 Salon seudulta, ja nämä ovat ajoitettu noin vuodelle 300 jaa. [2]. Viime vuosina
 tietoisuus speltista ja speltin suosio leivonnassa onkin lähtenyt uuteen kasvuun.
 
-Speltillä on Hapanjuurileipureiden keskustelualueelta käytyjen keskustelujen
-perusteella alkuvehnille tyypillisiä ominaisuuksia, kuten venyvä sitko ja maltillinen
-vedensidontakyky. Puhuttiinkin siis omanlaisestaan "notkeudesta" tai "lötköydestä"
+Speltillä on maatiaisviljoille tyypillisiä ominaisuuksia, kuten venyvä sitko ja maltillinen
+vedensidontakyky. Leipoutuvuuden osalta puhutaan "notkeudesta" tai "lötköydestä"
 kun vesisuhde taikinassa nousee tarpeeksi korkeaksi.
 
-Kaapissani oli sekä sihtispelttiä että täysjyväspelttiä. Paistelin näistä kahdella
-eri vesisuhteella eri päivinä viikolla ruokaleipää kokeillen, miten taikina käyttäytyy
+Kaapissani oli sihtispelttiä ja täysjyväspelttiä. Paistelin näistä kahdella
+eri vesisuhteella ruokaleipää parina versiona kokeillen samalla, miten taikina käyttäytyy
 pienemmällä ja hieman korkeammalla vesisuhteella. Käsittelen tässä artikkelissa
 lähinnä korkeamman vesisuhteen spelttitaikinaa, sillä lötkömmästä taikinasta tuntui
 tulevan mukavimmat leivät!

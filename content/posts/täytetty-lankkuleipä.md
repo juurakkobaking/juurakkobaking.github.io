@@ -4,8 +4,8 @@ date: 2020-11-05
 linktitle: Täytetty lankkuleipä
 title: Täytetty lankkuleipä
 weight: 1
-summary: Katsellessani Hapanjuurileipurit -ryhmästä löytyneen vinkin pohjalta Kokkishow:n Tartine -jaksoa (engl. The Chef Show) pääsi näkemään monenlaista mielenkiintoista leivonnasta ja myös alan yhden tunnetuimman leipomon toiminnasta. Jaksossa mestari Chris Bianco teki todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
-description: Katsellessani Hapanjuurileipurit -ryhmästä löytyneen vinkin pohjalta Kokkishow:n Tartine -jaksoa (engl. The Chef Show) pääsi näkemään monenlaista mielenkiintoista leivonnasta ja myös alan yhden tunnetuimman leipomon toiminnasta. Jaksossa mestari Chris Bianco teki todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
+summary: Kokkishow:n Tartine -jaksossa (engl. The Chef Show) tehtiin todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
+description: Kokkishow:n Tartine -jaksossa (engl. The Chef Show) tehtiin todella herkulliselta vaikuttavaa täytettyä pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä kutsuttiin.
 tags:
   - vehnä
   - pizzat
@@ -14,41 +14,37 @@ tags:
 
 > Joskus asioiden tekeminen johdattaa perille. -Chris Bianco
 
-Katsellessani Hapanjuurileipurit -ryhmästä löytyneen vinkin pohjalta
-Kokkishow:n Tartine -jaksoa (engl. The Chef Show) pääsi näkemään
-monenlaista mielenkiintoista leivonnasta ja myös alan yhden tunnetuimman leipomon toiminnasta.
-Jaksossa mestari Chris Bianco teki todella herkulliselta vaikuttavaa täytettyä
+Kokkishow:n Tartine -jaksossa (engl. The Chef Show) pääsi seuraamaan kovan tason leipomon toimintaa.
+Jaksossa pizzamestari Chris Bianco teki herkulliselta vaikuttavaa täytettyä
 pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä
-kutsuttiin. Biancolla oli leivontaan sellaista asennetta ja lämmintä otetta,
-joka pisti kyllä hymyilyttämään. Päädyin myös katsomaan hänen keynoteaan Pizza Expoilta
-Youtubesta, ja kyllähän se oli arvostettavaa ja ajatuksiaherättävää kuunneltavaa.
+kutsuttiin. Biancolla oli leivontaan kyllä elämänviisautta, joka pisti hymyilyttämään.
 
-Jaksossa leivottiin siis täytetty flatbread. Se näytti siltä kuin se olisi foccaccian, flatbreadin
-ja pizzan tyylinen näistä jokaista samaan aikaan. Kohotusliinan päältä kaadettiin pala
+Jaksossa leivottiin siis täytetty flatbread. Se näytti kuin se olisi foccaccian, flatbreadin
+ja pizzan yhdistelmä. Kohotusliinan päältä kaadettiin pala
 ilmavaa ja notkeaa taikinaa lapiolle, tehtiin sormin rei'itetyt taskuin kuin foccacciaan,
 lisättiin taikinaan päälle täytteet ja sen jälkeen paisteltiin.
 
-Tämähän vaikutti hauskalta tyyliltä tehdä pizzaa, joten pitihän sitä alkaa kokeilemaan
-tehdä jotain vastaavaan suuntaan. Pari viikkoa piti tätä säätää, että onnistui viimein.
+Hauska tyyli tehdä pizzaa. Pari viikkoa piti tätä säätää, että onnistui viimein kokeilla tehdä
+jotain vastaavan tyyppistä.
 
-Jaksosta sai tärppeinä muutamia juttuja:
+Jakson näkemisen jälkeen tärppeinä oli muutamia juttuja:
 
 * Taikinaan tulee esikeitettyjä jauhoja
-* Taikinassa oli hiivaa ja aikaisemman päivän leipätaikinaa, mitkä jätin pois hapanjuurella
-tehtyyn malliin
-* Kohotus tapahtui pöydällä jauhotetulla kohotusliinalla 
+* Taikinassa oli hiivaa ja aikaisemman päivän leipätaikinaa. Jätin ne pois ja tein hapanjuurella
+* Kohotus tapahtui pöydällä jauhotetulla kohotusliinalla suunnilleen lapion levyisessä kolossa
 * Paisto uunissa sellaisenaan ilman vuokaa
 * Paistolämpötila oli 310C
 * Vesisuhde oli myös todella korkea 140% ( O.o' )
 
-Vesisuhde oli todella suuri ainakin itselle näin kotileipurina ja ottaen huomioon kaapissa
-olleet jauhot. Päätinkin ottaa hieman maltilla vesisuhteen kanssa. Kotiuunilla lämpötila
-jäi myös 300 asteeseen.
+Vesisuhde oli todella suuri. Päätin ottaa hieman maltilla vesisuhteen kanssa.
+Kotiuunilla lämpötila jäi myös 300 asteeseen.
 
-Lopputuloksena lankku ei nyt varmasti tokikaan mestarin oikealle versiolle vedä vertoja. Oli tämä silti hauska
-projekti ja pizzatyyli kokeilla. Pohja on rapea mutta pizzan sisuksen koostumus todella pehmeä
+Lopputuloksena lankku ei nyt mestarin versiolle vedä vertoja, oli silti hauska
+askarteluprojekti ja pizzatyyli kokeilla.
+
+Pohja on rapea mutta pizzan sisuksen koostumus todella pehmeä
 ja ilmava. Taskuihin kertyi täytettä mukaviksi sattumiksi. Laitoin lankkuleipään Margherita
--pizzan täytteet, ja täytyy sanoa että tämä lankkuleipä pizzatyylinä menee kyllä jatkoon.
+-pizzan täytteet. Tämä lankkuleipä pizzatyylinä menee kyllä jatkoon.
 
 {{< columns >}}
 
@@ -130,7 +126,7 @@ myös täysjyvää.
 
 Tälle myös tekisi mieli kokeilla seuraavaksi pitää yön yli kylmäfermentoinnissa
 ja muotoilla tämän jälkeen pitkulaiseksi kohoamaan viimeisilleen asti. Tämä kokeilu
-oli tällainen saman päivän tuotos. :)
+oli saman päivän tuotos.
 
 [![](/leivonta/pizzat/taytetty-lankkuleipa-3.jpg)](/leivonta/pizzat/taytetty-lankkuleipa-3.jpg)
 

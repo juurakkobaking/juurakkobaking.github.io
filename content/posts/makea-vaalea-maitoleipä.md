@@ -1,23 +1,22 @@
 ---
 author: "Tomi Juntunen"
 date: 2020-07-25
-linktitle: Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä
-title: Makea vaalea maitoleipä ja Hokkaidon maitoleivän jäljillä
+linktitle: Makea vaalea maitoleipä
+title: Makea vaalea maitoleipä
 weight: 1
 description: Japanin Hokkaidon maitoleipä tunnetaan pehmoisuudestaan. Mietin, voisiko tämäntapaista leipää toteuttaa myös hapanjuurella. Päädyin tällä kertaa improvisoimaan hieman, minkä lopputulemana oli kuohkea ja pehmoinen vaalea tangzhong -maitoleipä. Kokeilut alkaakoon!
 tags:
   - japani
   - paahtoleivät
   - maitoleivät
+  - reseptit
 ---
 
-Reissun päällä ollessa kaiken tekemisen ja matkan tunnelmoinnin lisäksi on kiehtovaa tutustua
-paikallisiin keittiöihin ja niiden antimiin katukeittiöistä ravintoloihin.
-Ymmärtää myös, mistä asti eri maiden keittiöiden juuret juontuvat ja miten ne ovat muodostuneet
-ja elävät ajan saatossa. Muun muassa Aasian suunnalta Japanista löytyy paljon
-omia suosikkejani. Etenkin leivissä pehmeys ja suolainen makeus
+Reissun päällä ollessa kaiken matkanteon lisäksi on mukavaa puuhaa tutustua
+paikallisiin keittiöihin ja niiden antimiin aina katukeittiöistä ravintoloihin.
+Muun muassa Aasian suunnalta Japanista löytyy paljon
+omia suosikkejani. Etenkin paikallisissa leivissä pehmeys ja suolainen makeus
 tuli keskeisenä teemana usein vastaan, mikä kuuluukin paikalliseen leivontatyyliin.
-Pidin itse näistä kovasti.
 
 Useamman kerran pitkin Japania seikkaillessa paikallisista leivistä ja
 leivonnaisista jäi erityisesti mieleen muutamia paistoksia. Hokkaidon
@@ -28,18 +27,17 @@ maitoleipä oli yksi näistä.
 Tämä leipä tunnetaan useilla nimillä. Näitä ovat muun muassa shokupan
 (mikä tarkoittaa kirjaimellisesti ruokaleipää), maitoleipä ja tangzhong-maitoleipä.
 Maitoleipä on makumaailmaltaan hieman makeaa ja se on mielettömän pehmoinen tuntumaltaan.
-Aloinkin hiljattain miettimään, voisiko tämäntapaista maitoleipää
-toteuttaa myös hapanjuurella.
+Aloinkin hiljattain miettimään, voisiko tämäntapaista maitoleipää toteuttaa myös hapanjuurella.
 
-Kävin läpi muutamia kiinnostavan oloisia reseptejä englanniksi ja japaniksi.
-Toisissa käytettiin kuivahiivaa, toisissa taas tuorehiivaa. Myös yksi hapanjuuriresepti löytyi.
-Osa resepteistä myös käytti maitoa, kun toisissa oli vettä ja maitojauhetta ja
-kondensoitua maitoakin näkyi. Askarruttamaan jäi, millainenkohan resepti on lähimpänä
-tunnettua Hokkaidon maitoleipää ja mikä vaikuttaa ainesvalintoihin?
+Kävin läpi muutamia kiinnostavan oloisia reseptejä.
+Toisissa käytettiin kuivahiivaa, toisissa taas tuorehiivaa.
+Myös yksi hapanjuuriresepti löytyi. Osa resepteistä myös käytti maitoa,
+kun toisissa oli vettä ja maitojauhetta ja kondensoitua maitoakin näkyi.
+Kai näistä joku tarpeeksi lähellä oli.
 
 Poimin tällä kertaa kokeiluun pari kiinnostavan oloista maitopohjaista reseptiä.
-Foodgeekin hiivapohjainen ja Breadtopian hapanjuureen tehty
-Hokkaidon maitoleipäresepti saivat toimia tällä kertaa pohjana. Jätin tästä kokeilusta voin pois,
+Pohjaksi päätyi Foodgeekin hiivapohjainen ja Breadtopian hapanjuureen tehty
+Hokkaidon maitoleipäreseptit. Jätin tästä kokeilusta voin pois,
 ja pitääkin kokeilla voin kanssa toisella kertaa.
 
 ### Lopputulos
@@ -86,8 +84,8 @@ Hokkaidon maitoleivän tapaan tangzhong / milk roux -maitoleipä ilman voita.
 
 **Tangzhong/Roux**
 
-Yksi tekijä aasialaisten leipien pehmoisuuden taustalla on _tangzhong_.
-Tässä osa reseptin jauhoista kiisselöidään. Joukkoon sekoitetaan myöhemmin
+Yksi tekijä aasialaisten leipien pehmoisuuden taustalla maidon ja voin lisäksi on _tangzhong_.
+Osa reseptin jauhoista kiisselöidään. Joukkoon sekoitetaan myöhemmin
 loppu neste ja ainekset reseptin mukaan. Tämä vaikuttaa myös leivän parempaan säilyvyyteen,
 kun tärkkelysjyväset imaisevat kuumentuessaan runsaammin vettä. 
 

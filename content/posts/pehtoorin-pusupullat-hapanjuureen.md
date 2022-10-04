@@ -17,30 +17,24 @@ koristellut muhkeat huulet. Jaksossa pulliin tehtiin täytteiksi lemon curdiä j
 Pullat muotoillaan kauliten soikeaksi ja keskeltä ohuemmaksi, mihin täyte tulee.
 Tämän jälkeen se taitetaan taskuksi. 
 
-Lopputuloksena kaikki ei nyt aivan olleet tasalaatuisia ja täytettäkin
-muutamista tuli pellille asti, mutta oli mukava saada tuntumaa näiden tekemiseen ja siihen,
-miten niitä muotoillaan ja paljonko täytettä voi laittaa ennen kuin se on liikaa
-(todella maltillisesti). Hapanjuuren kanssa leipomisen tempokin oli
-leppoisampi. Olivathan nämä kyllä mukavia kahvin kavereita ja hauska projekti.
-Hapanjuuren kanssa muotoilussa täytyy muutenkin olla hellävaraisempi,
-sillä ne eivät ymmärtääkseni niin kestä räyhäkkää muotoilua etenkään kohottuaan.
-
-Reseptistä hiiva on korvattu 25% (leipurinprosenttia) makealla vehnäjuurella.
-
 Alkuperäinen resepti löytyy [täältä](https://web.archive.org/web/20201130185909/https://www.mtvuutiset.fi/makuja/reseptit/resepti/koko-suomi-leipoo-pehtoorin-pusupullat/7986364).
+
+Kyseisestä reseptistä hiiva on korvattu 25% (leipurinprosenttia) makealla vehnäjuurella.
 
 [![](/leivonta/pehtoorin-pusupullat.jpeg)](/leivonta/pehtoorin-pusupullat.jpeg)
 
-### Huomioita ja pohdintaa
+### Huomioita hapanjuurella leivontaan
+
+Lopputuloksena kaikki ei nyt aivan olleet tasalaatuisia ja täytettäkin
+muutamista tuli pellille asti. Täytteen kanssa kannattaakin hakea tuntumaa miten niitä muotoillaan
+pulla kerrallaan ja paljonko täytettä voi laittaa ennen kuin se on liikaa.
 
 Juuri oli virkeä ja kolminkertaistui neljän tunnin sisällä ruokinnasta. Pullilla
 kohotusajat olivat pitkiä, enkä niin katsonut kelloa. Annoin taikinaan tulla ilmavuutta
-reippaasti. Etenkin muotoilun jälkeen kiinnitin tähän tökkäystestillä huomiota, että taskut
-olivat kohonneet ennen uuniin laittoa.
+reippaasti minkä näppituntumalla sitten pystyi huomaamaan. Muotoilun jälkeen kokeilin tökkäystestillä,
+että taskut olivat kohonneet riittävästi ennen uuniin laittoa.
 
-Muotoilusta hapanjuuren kanssa en ollut varma, joten sovelsin pizzanpaistosta tuttua
-tapaa, mutta tavoitellen soikeaa muotoa. Loppuunsa käsittely oli aika hellävarainen verrattuna hiivataikinaan.
-Ohjelmassa paineltiin myös lautasella saumat kiinni niin sovelsin tähän samaa oppia.
+#### Muotoilun prosessi
 
 * Muotoilu palloksi.
 * Ensin sormin painellen keskelle hieman tilaa puskien taikinaa ja kaasuja reunoille sekä päihin.

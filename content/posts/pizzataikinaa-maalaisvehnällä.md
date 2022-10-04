@@ -7,20 +7,14 @@ weight: 1
 description: Pizzaharjoittelut ja kokeilut Dala-maalaisvehnällä jatkuivat.
 tags:
   - pizzat
-  - harjoittelut
   - maalaisvehnät
+  - reseptit
 ---
-
-Pizzanpaisteluiden harjoittelut jatkuivat.
-Tällä kertaa siirryin [edelliskerrasta](/posts/pizzataikina-ohralla-ja-maalaisvehnällä)
-tavallisen kotimaisen puolikarkean vehnäjauhon ja maalaisvehnän pariin ja jätin ohran pois.
 
 {{< columns >}}
 
-Opin myös hapanjuurileipurien verkkoyhteisöstä hiljattain, että maalaisvehnälajikkeilla -
-joihin myös Dala-vehnä lukeutuu - on yhtenä ominaisuutena venyvä sitko! Ehkä osaltaan siksikin
-se tunti sopivan hyvin pizzataikinoihin? Tiedä häntä, harmillisesti en osaa sanoa.
-Hyvin se ainakin tuntui toimivan!
+Maalaisvehnällä - kuten myös Dala-vehnällä - on yhtenä ominaisuutena venyvä sitko ja maltillinen
+veden sidontakyky. Venyvyys sopii pizzoihin hyvin, joskin maalaisvehnällä on myös heikompi 
 
 <--->
 

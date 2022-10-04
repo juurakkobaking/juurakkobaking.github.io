@@ -99,8 +99,45 @@ ihmisravinnoksi kelpaamatonta ja onkin poistettava ennen jauhoiksi jauhamista.
 
 ## Sihtaaminen
 
-Kokonaisia jyviä jauhaessa lopputuote sisältää kaikki jyvän ainekset.
-Toisinaan lopputuotteelta toivotaan hienojakoisempaa rakennetta. Katso [sihtaaminen](/docs/jauhot/sihtaaminen).
+### Taustaa
+
+Kokonaisia jyviä jauhaessa lopputuote sisältää kaikki jyvän ainekset. 
+Näistä karkeimmat kuoriosat - leseet - jäävät jauhoihin ja vaikuttavat gluteeniverkon
+muodostumiseen. Leseet ovat kuitu- ja ravintoainepitoisia, mutta taikinassa nämä
+leikkaavat herkät gluteenirakenteet johtaen myös tiiviimpään lopputulokseen.
+
+Hienojakoisempaa ja pehmeämpää jauhoa halutessa, jauhot on myös mahdollista 
+sihdata - ajetaan vain tiheän siivilän tai seulan läpi. Sihdin hienojakoisuuden voi päättää vapaasti.
+Hienompijakoisella siivilällä saa hienompia jauhoja. Hienompiin jauhoihin sopii esimerkiksi alle millimetriluokan
+sihdit, kuten luokkaa 0.5mm reikäkoon siivilät tai sihdit.
+
+### Käyttö
+
+Sihdatut leseet voi joustavasti käyttää eri tavoin. Leseet voi
+esimerkiksi eritellä omaan autolyysivaiheeseen tai kaltata ne, ja lisätä
+taikinaan taitteluiden yhteydessä näiden pehmentämisen jälkeen kun taikina
+on muuten jo saanut vahvuutta ja rakennetta. Sihdattuja ja rouhittuja
+leseitä voi myös käyttää muussakin ruoanlaitossa. Yleensä itse jauhan myös sihdatut leseet uudelleen
+hienommaksi ja sekoitan jauhojen joukkoon.
+
+### Sihdatut jauhot
+
+Vertailukuvat tavallisen kotikeittiön hienojakoisen siivilän läpi
+käytetyistä vehnänjyvistä jauhetuista jauhoista.
+
+#### Sihdatut jauhot
+
+![](/sihtijauhot.png)
+
+#### Sihdatut leseet
+
+![](/sihdatut_leseet.png)
+Sihdatut leseet
+
+#### Täysjyväjauhot leseineen
+
+![](/taysjyvajauhot.png)
+Täysjyväjauhot
 
 ## Lähteet
 

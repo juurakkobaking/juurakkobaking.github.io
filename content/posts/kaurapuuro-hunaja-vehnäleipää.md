@@ -8,19 +8,20 @@ description:
 tags:
   - vehnä
   - kaura
+  - reseptit
 ---
 
-The Sourdough School -kirjasta löytyi kiinnostavan oloinen resepti vehnäleipään,
-missä hyödynnettiin runsasta määrää hunajalla, paahdetuilla vehnänjyvillä ja
-mallasjauhoilla maustettua kaurapuuroa. Resepti vaati näiden lisäksi vahvoja
-jauhoja. Näistä minulta kuitenkin puuttui aineksia,
-joten ennen niiden hankkimista hyödynsin mitä kaapistani löytyi ja tein reseptin
-vain kaurapuurolla, paahdetuilla vehnäleseillä ja hunajalla.
+Löysin kiinnostavan oloinen reseptin vehnäleipään,
+missä oli aineksina hunajaa, paahdettuja vehnänjyviä ja
+mallasjauhoilla maustettua kaurapuuroa.
+
+Kauppaan säntäämisen sijaan päätin hyödyntää vain mitä kaapistani löytyi
+ja tein reseptin kaurapuurolla, paahdetuilla vehnäleseillä ja hunajalla.
 
 Lopputuloksena oli todella pehmoinen leipä, johon tuli myös mukavan
-tasainen ja avautunut rakenne. Hunaja toi omanlaistaan makeutta ja kaurapuuro
+tasainen ja avautunut rakenne. Hunaja toi makeutta ja kaurapuuro
 silkkistä pehmeyttä makuun. Seuraavaksi kauppareissun jälkeen loput ainekset
-mukaan ja kokeilemaan vielä reseptikin.
+mukaan ja kokeilemaan vielä se oikea reseptikin.
 
 {{< columns >}}
 

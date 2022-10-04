@@ -9,41 +9,18 @@ tags:
   - pizzat
   - maalaisvehnät
   - ohra
+  - reseptit
 ---
 
-Uusi uuni kotona ja pizzapäivän paikka - ah! <3
+Uusi uuni kotona ja pizzapäivän paikka.
 
-Valitsin tällä kertaa pizzataikinan pohjaksi kotimaisia lähellä tuotettuja jauhoja.
-Eri jauhoilla on monipuolisesti vaihtelevia leivontaominaisuuksia. Niitä valittaessa voi
-ottaa monia asioita huomioon lähtien liikkeelle mausta, lopputuloksen tavoitteista,
-käytettävästä ajasta fermentoinnissa ja kylmälevossa, sekä vesisuhteesta.
-Tapoja ja opittavaa on huimasti. Onkin mukavaa kokeilla laajasti erilaisia jauho- ja
-raaka-ainevaihtoehtoja.
-
-Tarkka kuitenkin voi (ja jossain tapauksessa myös pitää) olla: Esimerkiksi jos mennään Italiaan
-ja Napolilaisen tyylin pariin niin silloin mennään asiaankuuluvilla raaka-aineilla,
-prosessilla ja hommaan sopivalla uunilla. ([Napolilaiselle tyylille on jopa myös olemassa oma
-sertifiointi nimen ja perinteen suojelemiseksi](https://www.pizzanapoletana.org/en/ricetta_pizza_napoletana)).
-Sisilialainen, roomalainen, loikkaus Atlantin toiselle
-puolelle ja jenkkityylien kanssa taas leivotaan omaan tapaan. Ja niin edelleen.
-Pizzatyylejä on paljon ja olisikin upeaa kokeilla ja päästä
-tutustumaan vielä monien eri tyylien kanssa muunkin leivonnan lisäksi.
-
-Touhun ei kuitenkaan tarvitse olla liian totista. On myös mukavaa tehdä rennommin
-ottein ja kenties pistää vain tulille tuttua kotisettiä
-tai perinteistä mättöpeltipizzaa. Tärkeää on myös millainen pizza ja prosessi
-sopii myös itselle. Leivontatapoja on niin monenlaista ja kaikki riippuu omista
-tavoitteista ja halutusta lopputuloksesta. Haaveilen itse leivinuunista
-ja pizzauunista, mutta toistaiseksi on vielä käytössä sähköuuni.
-
-## Leivotaan!
-
-Hyllystä löytyi tälle pizzapäivälle puolikarkeita vehnäjauhoja, aiemmin
-ostamiani 00 dala -vehnäjauhoja kun maatiaisvehnät kiinnostivat ja vielä mukaan
-itsejauhettua ohraa yrittämään tuomaan hieman rouheutta mukaan makuun.
-Ohran jauhoin hienoimmalla karkeusasteella minkä kotitarvemyllyni antoi myöten.
+Valitsin pizzataikinan pohjaksi kotimaisia lähellä tuotettuja jauhoja.
+Puolikarkeita vehnäjauhoja, aiemmin ostamiani 00 dala -vehnäjauhoja ja ohraa
+yrittämään tuomaan hieman rouheutta mukaan makuun.
+Ohran jauhoin hienoimmalla karkeusasteella, minkä kotitarvemyllyni antoi myöten.
+Muut jauhot olivat valmista kamaa.
 Vehnää ja 00 dala-alkuvehnää otin mukaan runsaasti tuomaan
-pehmeyttä ja rakennetta, ja ohraa taas muutaman leipurinprosentin verran tuomaan makua.
+pehmeyttä ja rakennetta, ohraa muutaman leipurinprosentin verran tuomaan makua.
 
 ### Ainekset
 

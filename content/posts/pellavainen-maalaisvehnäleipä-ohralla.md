@@ -8,15 +8,16 @@ description:
 tags:
   - vehnä
   - ohra
+  - reseptit
 ---
 
-Pellavansiemenistä tuli kyllä yksi suosikkilisukkeistani vehnäleipiin. Ne tuovat
-mukavasti makua varsinkin paahdettuna.
+Tällä viikolla tavoitteenani oli tehdä maalaisleipiä. Mitä ne oikein 
 
-Tällä viikolla tavoitteenani oli tehdä maalaisleipiä. Mitä ne oikein ovat? 
-Hapanjuurileipurit -yhteisössä olikin kerrottu näistä, että ne ovat
-tyypillisesti isoja, konstailemattomia ja spontaaneja muodoltaan, eivätkä myöskään
-ole koristeltuja. Näistä leivistä sitten paistelinkin reilun kilon mörssärit per
+> ne ovat tyypillisesti isoja, konstailemattomia ja spontaaneja muodoltaan, eivätkä myöskään
+> ole koristeltuja.
+> - Hapanjuurileipurit -foorumilta bongattua
+
+Rustiikkisuus saa näkyä. Näistä leivistä sitten paistelinkin reilun kilon mörssärit per
 kappale.
 
 Halusin myös tehdä hieman paksumpaa ja tummempaa
@@ -28,6 +29,9 @@ riittäisivät leivälle uuniin laittaessa.
 
 Lopputulos onnistui mukavasti. Kuori oli paksu ja rapsakka, eikä suinkaan palanut.
 myös koostumus oli todella pehmoinen ja mukavan paahteinen.
+
+Pellavansiemenistä tuli tämän myötä kyllä yksi suosikkilisukkeistani vehnäleipiin. Ne tuovat
+mukavasti makua varsinkin paahdettuna.
 
 {{< columns >}}
 
@@ -80,7 +84,7 @@ Aineksissa käytin kotitarvemyllyllä muutama päivä aiemmin jauhettua täysjyv
 ja tuoreeltaan jauhettua ohraa. Päätin etten siis pitänyt jauhoja autolyysissä, etteivät
 ne kohoaisi yli liian nopeasti. Sekoitinkin siis kaikki ainekset suoraan sekaisin.
 
-2. muotoilun jälkeen pidemmän korissa levon jälkeen koostumus taikinan pinnalla
+Toisen muotoilun jälkeen pidemmän korissa levon jälkeen koostumus taikinan pinnalla
 oli jääkaappiin laittaessa melko tasainen ja hieman vielä reunoilta kupera.
 Tämä viittaisi siihen että kohoaminen alkaisi olla lopuillaan, kun nousuvara ja -voima alkaa loppua.
 

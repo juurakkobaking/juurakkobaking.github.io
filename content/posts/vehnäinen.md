@@ -1,8 +1,8 @@
 ---
 author: "Tomi Juntunen"
 date: 2020-11-10
-linktitle: Vehnäleipää viikon alkuun
-title: Vehnäleipää viikon alkuun
+linktitle: Vehnäinen
+title: Vehnäinen
 weight: 1
 summary: Välillä on mukavaa tehdä myös ruokaleipää ilman sen suurempia kikkailuja. Näiden tapauksessa voi joustavasti käyttää eri viljoja ja jauhoja itselleen sopivalla suhteella ja mitä nyt kaapeista sattuu siihen hetkeen löytymään. Veden, juuren ja suolan määränkin voi sovittaa raaka-aineiden, määrän, ja oman aikataulun mukaan.
 description: Välillä on mukavaa tehdä myös ruokaleipää ilman sen suurempia kikkailuja. Näiden tapauksessa voi joustavasti käyttää eri viljoja ja jauhoja itselleen sopivalla suhteella ja mitä nyt kaapeista sattuu siihen hetkeen löytymään. Veden, juuren ja suolan määränkin voi sovittaa raaka-aineiden, määrän, ja oman aikataulun mukaan.
@@ -11,13 +11,10 @@ tags:
   - vehnä
 ---
 
-Välillä on mukavaa tehdä myös ruokaleipää ilman sen suurempia kikkailuja.
-Näiden tapauksessa voi joustavasti käyttää eri viljoja ja jauhoja itselleen sopivalla
-suhteella ja mitä nyt kaapeista sattuu siihen hetkeen löytymään. Veden, juuren ja
-suolan määränkin voi sovittaa raaka-aineiden, määrän, ja oman aikataulun mukaan.
+Tällä kertaa ruokaleipää arkeen ilman sen suurempia kikkailuja.
 
 Tälle viikolle paistelin tavallista vehnäleipää pienellä määrällä täysjyvää. Käytin pohjana
-90% sihtivehnää ja loput olivat kotitarvemyllyllä jauhettua täysjyvää. Kun taikinassa
+90% sihtivehnää ja loput 10% olivat kotitarvemyllyllä jauhettua täysjyvää. Kun taikinassa
 on vain neljä komponenttia ja tavoitteena on ruokaleipä ilman lisukkeita, vaiheet leivontaan
 voivat olla todella suoraviivaiset ja näppärät.
 

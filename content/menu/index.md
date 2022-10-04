@@ -3,30 +3,25 @@ headless: true
 ---
 
 - [Reseptit](/tags/reseptit)
-- [Rakkaudesta leivontaan]({{< relref "/docs/info/rakkaudesta-leivontaan" >}})
-
-- **Jauhot**
-  - [Jauhojen jauhaminen kotona]({{< relref "/docs/jauhot/kotijauhaminen" >}})
-  - [Sihtaaminen]({{< relref "/docs/jauhot/Sihtaaminen" >}})
 
 - **Hapanjuurileivonta**
   - [Autolyysi ja tekeytyminen]({{< relref "/docs/hapanjuurileivonta/autolyysi-ja-tekeytyminen" >}})
-  - [Sekoitus-, vaivaus- ja muokkaustekniikat]({{< relref "/docs/hapanjuurileivonta/sekoitus-vaivaus-ja-muokkaustekniikat" >}})
-  - [Uuniolosuhteet ja paistotekniikat kotiolosuhteissa]({{< relref "/docs/hapanjuurileivonta/uuniolosuhteet-ja-paistotekniikat" >}})
-  - [Vinkit lämpimille keleille]({{< relref "/docs/hapanjuurileivonta/vinkit-lämpimille-keleille" >}})
+  - [Kooste sekoitus-, vaivaus- ja muokkaustekniikoista]({{< relref "/docs/hapanjuurileivonta/sekoitus-vaivaus-ja-muokkaustekniikat" >}})
+  - [Erilaiset uunit ja paistotekniikat kotikeittiössä]({{< relref "/docs/hapanjuurileivonta/uuniolosuhteet-ja-paistotekniikat" >}})
+  - [Selviytymiskeinoja helteille]({{< relref "/docs/hapanjuurileivonta/vinkit-lämpimille-keleille" >}})
 
-- **Leivonta**
+- **Leivontatietoa**
   - [Riivaus]({{< relref "/docs/leivonta/riivaus" >}})
-  - [Tärkkelysjyvät ja gelatinoituminen]({{< relref "/docs/leivonta/tarkkelysjyvat-ja-gelatinoituminen" >}})
-
+  - [Tärkkelys ja gelatinoituminen kotileivonnassa]({{< relref "/docs/leivonta/tarkkelysjyvat-ja-gelatinoituminen" >}})
+  - [Kotitarvemyllyt - Itsejauhettua jauhoa kotona]({{< relref "/docs/jauhot/kotijauhaminen" >}})
+  
 - **Historia**
   - [Ohran puinti pienellä kotitilalla]({{< relref "/docs/historia/ohran-puinti-pienella-kotitilalla" >}})
 
-- **Kirjallisuus- ja verkkolähteet**
+- **Luettavaa**
   - [Englanninkielinen kirjallisuus]({{< relref "/docs/kirjallisuus ja verkkolähteet/englanninkielinen-kirjallisuus" >}})
   - [Suomenkielinen kirjallisuus]({{< relref "/docs/kirjallisuus ja verkkolähteet/suomenkielinen-kirjallisuus" >}})
   - [Muistio - Blogit ja muut sivustot]({{< relref "/docs/kirjallisuus ja verkkolähteet/muistio-blogit-ja-muut-sivustot" >}})
+  - [Leivontayhteisöt]({{< relref "/docs/yhteisöt ja toiminta/some" >}})
 
-- **Yhteisöt ja toiminta**
-  - [Sosiaalinen media]({{< relref "/docs/yhteisöt ja toiminta/some" >}})
-
+- [Rakkaudesta lajiin]({{< relref "/docs/info/rakkaudesta-leivontaan" >}})

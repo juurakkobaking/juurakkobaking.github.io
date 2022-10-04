@@ -5,9 +5,9 @@ bookFlatSection: true
 description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poimintoina myös erilaisia vastaan tulleita suosikkireseptejä.
 ---
 
-# Suosikkipalat - Blogit, sivustot, foorumit
+# Suosikkipalat
 
-> Kooste suosikkiblogejani ja muitakin sivustoja, mitä tulee seurailtua usein. Poimintoina myös erilaisia vastaan tulleita ja 
+> Kooste hyviä leivonta- ja kulinaarien sivustoja, mitä tulee seurailtua. Poimintoina myös erilaisia vastaan tulleita ja 
 > reseptivihkoon tallentuneita reseptejä.
 
 ## Leivonta- ja ruokablogit
@@ -27,6 +27,7 @@ description: Kooste blogeja ja muita sivustoja, mitä tulee seurailtua. Poiminto
 
 * [Annin uunissa - Perinteinen maustekakku](https://www.anninuunissa.fi/perinteinen-maustekakku/)
 * [Kinuskikissa - Mutakakku](https://www.kinuskikissa.fi/maailman-paras-mutakakku)
+* [Kinuskikissa - Omenainen korvapuustikakku](https://www.kinuskikissa.fi/omenainen-korvapuustikakku)
 
 ### Leivonnaiset
 

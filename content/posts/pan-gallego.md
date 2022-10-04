@@ -1,30 +1,25 @@
 ---
 author: "Tomi Juntunen"
 date: 2020-08-29
-linktitle: Pan Gallegon muotoiluja
-title: Pan Gallegon muotoiluja
+linktitle: Pan Gallegon muotoilu
+title: Pan Gallegon muotoilu
 weight: 1
 description: 
 tags:
   - muotoilu
-  - harjoittelut
   - oppaat
 ---
 
 # Pan Gallego
 
-Bryan Fordin kirjoittamaa New World Sourdough -kirjaa lukiessani tuli vastaan useita
-kiinnostavia reseptejä ja leipomuksia. Yksi näistä oli Pan Gallego - "Bread of Galicia",
+Bryan Fordin kirjoittamaa New World Sourdough -kirjassa oli resepti leivälle Pan Gallego - "Bread of Galicia",
 jonka juuret ovat Espanjan pohjoisosista.
 
 {{< columns >}}
 
 Kyseessä on vehnän ja rukiin sekoituksesta tehty leipä, jonka päälle tehdään
-solmu. Harmillisesti leivän ja sen solmun tarkoituksen alkuperä jäi hämärän peittoon.
-
-Tämä leipä kiinnostikin muotoilun osalta. Miten sellainen
-oikein tehdäänkään? Olin ymmärtänyt, että yleensä jo kohotetun ja korista kipatun
-leivän käsittelyssä oltaisiin varovaisia. Noh, ilmenikin siis, että tässä voikin joustaa!
+solmu. Leivän ja sen solmun tarkoituksen alkuperä jäi hämärän peittoon, mutta kai sillä jokin
+merkitys lienee ollut.
 
 <--->
 
@@ -60,16 +55,15 @@ Noh, tällainen tällä kertaa.
 
 ## Huomioita
 
-Taikina tuli suoraan jääkaapista joten venyminen on aika maltillista. Vesisuhde
-olisi myös hieman saanut olla korkeampi. Reseptissä oli korkea vesisuhde, mutta
-kotimaisille jauhoille kokeilin laskea sitä. Koostumus oli kuitenkin mukava
+Taikina tuli suoraan jääkaapista joten venyminen on hidasta. Vesisuhde
+olisi myös saanut olla korkeampi. Reseptissä oli korkea vesisuhde, mutta
+kotimaisille jauhoille laskin sitä. Koostumus oli kuitenkin mukava
 ja onnistunut, ja maussa oli makoisaa rukiin aromia vehnän kanssa. Nam!
 
 Venyttäessäni taikinaa en paina taikinaa alas toisella kädelläni, vaan hellästi
 tuen vain ettei se nouse ilmaan.
 
 **12. marraskuuta 2020**: Bryan Ford oli lisännyt Instagram-tililleen myös
-videon leivän muotoilusta! Linkkaampas senkin vielä tähän. On nimittäin
-sen verran erilainen ja varmasti luotettavammakin oloinen.
+videon leivän muotoilusta:
 
 [Instagram, @artisanbryan, Pan Gallego](https://www.instagram.com/p/CHf-X4plUi2/)

@@ -10,19 +10,15 @@ tags:
   - speltti
 ---
 
-Tällä kertaa tuli leivottua vain tavallista ruokaleipää. Pellavansiemenet
-tuovat mukavasti makua, joten lisäsin niitä taikinaan. Ennen kohotuskoriin
-asettamista pyöräytin leivät reippaan pellavansiemen kylvyn kautta.
+Tämä resepti on isommin kikkailematta tavallista ruokaleipää. Pellavansiemenet
+tuovat mukavasti makua, joten lisäsin niitä taikinaan. Ennen kohtuskoriin
+asettamista pyöräytin leivät reippaan pellavansiemenkylvyn kautta millä saa mukavan
+pinnan aikaan.
 
-Speltillä on myös oma mukava pähkinäinen makunsa. Hapanjuurileipurit-harrastajaryhmässä
-oli myös kerrottu, että speltti jauhona on notkeampi ja sitoo maltillisemmin vettä
-kuin esimerkiksi vehnä. Käytin täysjyväspelttiä ja mukana oli notkeaksi osoittautunutta
-vehnääkin, minkä kanssa huomasin madaltavani
-vesisuhdetta usein. Päätin kokeilla siis 70% vesisuhdetta ja katsoa millainen taikina tulisi.
+Speltillä on myös oma pähkinäinen makunsa. Speltti jauhona on notkeampi ja vettä voi käyttää vähemmän.
+Speltti sitoo maltillisemmin vettä kuin esimerkiksi vehnä. 
 
-Näin myös Youtube-videolla hauskalta vaikuttaneen tavan tehdä viilto leipiin
-saksilla. Päätin kokeilla tätä, miten leipä aukeaisi saksimisen jälkeen ja
-millaisen kuvion se jättäisi jälkeensä.
+Viilto toiseen leipään on tehty saksilla. 
 
 {{< columns >}}
 
@@ -47,16 +43,9 @@ millaisen kuvion se jättäisi jälkeensä.
 
 ### Prosessi
 
-* Ainekset sekaisin. Rubaud-vaivaus.
+* Ainekset sekaisin ja vaivaus.
 * 4,5h tunnin ensikohotus
 * 15min tasolepo 1. muotoilun jälkeen
 * 15min lepo korissa 2. muotoilun jälkeen
 * Jääkaapissa yön yli n. 15h.
 * Paisto kuvun alla 250C 20min, 15min 220C. 
-
-### Huomioita ja pohdintaa
-
-Laitoin kaikki ainekset kerralla sekaisin ilman autolyysiä tai lepoa
-ennen suolan sekoittamista juuren jälkeen. Siemenet olisi voinut lisätä
-leipään myös laminoiden, mutta oikaisin vain ja lisäsin ne suoraan taikinaan.
-(Laminoimalla siemenet saa varmemmin jakautumaan tasaisemmin.)
