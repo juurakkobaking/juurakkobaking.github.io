@@ -12,7 +12,8 @@ tags:
 
 # Pan Gallego
 
-Bryan Fordin kirjoittamaa New World Sourdough -kirjassa oli resepti leivälle Pan Gallego - "Bread of Galicia",
+Bryan Fordin on leipuri New Orleanista. Hän yhdistelee leivonnassaan tyylejä kotimaastaan Hondurasista ja Yhdysvaltojen
+New Orleanista. Hänen kirjoittamassaan New World Sourdough -kirjassa oli resepti leivälle Pan Gallego - "Bread of Galicia",
 jonka juuret ovat Espanjan pohjoisosista.
 
 {{< columns >}}
@@ -45,13 +46,10 @@ Tämä voi vaatia jonkun harjoituskierroksen, että siihen löytyy sopiva tuntum
 
 Muotoilun jälkeen teen vielä viillot, jotta leivän sisään ja muotoilustakin
 pakkaantuneet kaasut pääsevät purkautumaan hallitusti leivän kohotessa.
-
-Eri Youtube-videoilla näkyy myös sellaisiakin variaatioita, missä taikinasta pyöritellään
-vain nuppi keskelle leipää.
+Vastaan tuli myös variaatioita, missä taikinasta pyöritellään
+vain nuppi keskelle leipää. Keinoja vaikuttaa siis olevan monia, mutta päämäärä sama.
 
 {{< video src="/leivonta/pan-gallegon-muotoilu.mp4" type="video/webm" preload="none" >}}
-
-Noh, tällainen tällä kertaa.
 
 ## Huomioita
 
