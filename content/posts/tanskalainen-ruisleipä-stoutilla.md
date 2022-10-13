@@ -20,9 +20,10 @@ näitä suorakaiteen muotoisia kannellisia leipävuokia käytettiin Yhdysvallois
 Pullman -vaunujen keittiöissä [[1]](#Viittaukset).
 
 Vuokani on saatavillaolevista pullman-vuoista isompi malli. Koko on 13x4x4 tuumaa, eli noin 33x10x10cm.
-Haaveilen vielä josko löytäisin pienemmän 9 tuumaisen, eli noin 23 senttimetrisen
-mallin. Olen nähnyt myös puusta valmistettuja Tanskalaisen ruisleivän leipävuokia.
-Mistäköhän moisia löytäisi?
+Harkitsen vielä josko löytäisin pienemmän 9 tuumaisen, eli noin 23 senttimetrisen
+mallin. Olen nähnyt myös puusta valmistettuja Tanskalaisen ruisleivän leipävuokia,
+mutta minulla ei oikeastaan ole mitään hajua mistä sellaisia voisi hankkia ainakaan
+tämän postauksen kirjoitushetkellä.
 
 Puolisoni suosikki on ollut pitkään vuokaruisleipä, missä on sisuksessa kostea rakenne
 ja runsaasti jyviä tai siemeniä. Päädyin siis Tanskalaisen ruisleivän pariin. Tein tätä muutamaan otteeseen, että
@@ -30,10 +31,10 @@ ruishapantaikinan kohottaminen vuoassa tuli tutuksi ja kokeilin vaihtaa nesteen 
 tuomaan ryhtiä ja potkua makuun. Tämä yhdistelmä toimi kivasti. Myös mallassiirappia
 ja mallasjauhoja olen nähnyt käytettävän, mutta stoutin kokeilu kiinnosti tällä kertaa.
 
-Leipuriyhteisöistä opin myös, että ruis on anteeksiantava ja joustava vilja nesteen
+Leipuriyhteisöistä tuli myös opittua, että ruis on anteeksiantavampi ja joustavampi vilja nesteen
 mittasuhteiden kanssa. Myös ruisjauhojen välillä on ilmeisesti useinkin vaihtelua siinä, kuinka
-hyvin ne sitovat nestettä. Leivän vesisuhdetta (tai tässä tapauksessa olutsuhdetta)
-kannattaakin seurailla näppituntumalta.
+hyvin ne sitovat nestettä. Näin siis ruistaikinan koostumusta ja vesisuhdetta (tai tässä tapauksessa olutsuhdetta)
+kannattaakin seurailla enemmän näppituntumalta kuin tarkasti mitaten kun kotona leipoo.
 
 {{< columns >}}
 

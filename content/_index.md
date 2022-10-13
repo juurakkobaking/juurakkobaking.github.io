@@ -22,10 +22,10 @@ description: "Kotileivontaa juurilla ja ilman."
 
 Moro vaan!
 
-Tämä on blogi kotileivonnan parista. Kirjoittelen harrasteluluonteista asiaa
+Tämä on blogi kotileivonnan ääreltä. Kirjoittelen harrasteluluonteista settiä
 kotikeittiöstä viljojen ja jauhojen ääreltä. Pohdin välillä syy-seuraussuhteita, leivonnan perinteitä ja historiaa.
-Blogipuolelle myös naputtelen muuta aiheen vierestä paistopuuhista ja vähän niitä liippaavista aiheista hellan
-ääreltä. Reseptejäkin löytyy, mutta niitä teen melko harvakseltaan.
+Blogin puolelle naputtelen myös paistopuuhista ja vähän niitä liippaavista aiheista hellan
+ääreltä. Reseptejäkin löytyy, mutta niitä teen harvakseltaan.
 
 Leivonnan juurilla insinöörin, amatöörikotileipurin ja harrastelijan näkökulmasta.
 

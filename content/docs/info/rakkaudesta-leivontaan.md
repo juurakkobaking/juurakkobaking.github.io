@@ -1,22 +1,19 @@
 ---
-title: Rakkaudesta leivontaan
+title: Palosta lajiin
 menu: main
 description: Harrastuksen ja kiinnostuksen syntysijoilla.
 weight: 1
 ---
 
-# Kotileivontaa
-
-## Rakkaudesta lajiin
+# Kotileivontaa - palosta lajiin
 
 Pienenä vietin usein aikaa isoäitini ja äitini keittiöissä. Isovanhempieni 
 maalaistalon pirtin ja kotitaloni tuvan leivinuuneissa pidettiin talvisin usein
 tulta ja sen lämpöä hyödynnettiin leivontaan. Ohrarieskan tuoksu täytti usein talon.
+Harrastus oli pitkään aaltoilevaa, mutta myöhemmin hurahdin hapanjuurileivontaan
+ja makean leivontaan.
 
-Leivonta onkin kulkenut mukana lapsesta asti. Harrastus oli pitkään 
-aaltoilevaa, mutta myöhemmin hurahdin hapanjuurileivontaan ja makean leivontaan.
-
-Leivonnasta löytyy kaikenlaista mitä kokeilla. Joskus voi kikkailla mutta välillä on myös
+Leivonnasta löytyy paljon mitä kokeilla. Joskus voi kikkailla mutta välillä on myös
 mukava vääntää vain konstailematonta ruokaleipää. 
 Rustiikkisuus ja rosoisuus kuuluu myös mielestäni leipomisen sielunelämään.
 Konstit on monet ja sopivia tekniikoita löytyy eri tilanteisiin.
@@ -32,6 +29,6 @@ Ymmärtäminen on avainasemassa siinä, että oppii myös itse soveltamaan ja te
 Erilaisia menetelmiä, tapoja ja tyylejä leipoa on loputtomiin ja leivontaan liittyy paljon
 perinteitä ja historiaa ympäri maailmaa.
 
-Oispa joskus vielä vaan leivinuuni. Voisi taas vääntää sitä lapsuudesta tuttua ohrarieskaa.
+Ehkä joskus on oma leivinuuni, niin voisin taas vääntää sitä lapsuudesta tuttua ohrarieskaa.
 
 / Tomi Juntunen

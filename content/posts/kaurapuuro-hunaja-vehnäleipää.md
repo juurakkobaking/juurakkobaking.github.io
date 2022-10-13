@@ -11,10 +11,11 @@ tags:
   - reseptit
 ---
 
-Löysin kiinnostavan oloinen reseptin vehnäleipään,
-missä oli aineksina hunajaa, paahdettuja vehnänjyviä ja
+Törmäsin kiinnostavan oloiseen tuunatun vehnäleivän reseptiin, missä
+keskeisinä aineksina oli myös hunajaa, paahdettuja vehnänjyviä ja
 mallasjauhoilla maustettua kaurapuuroa.
 
+Juuri oli kuitenkin valmis ja osa aineksista puuttui.
 Kauppaan säntäämisen sijaan päätin hyödyntää vain mitä kaapistani löytyi
 ja tein reseptin kaurapuurolla, paahdetuilla vehnäleseillä ja hunajalla.
 

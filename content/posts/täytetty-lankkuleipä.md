@@ -17,7 +17,7 @@ tags:
 Kokkishow:n Tartine -jaksossa (engl. The Chef Show) pääsi seuraamaan kovan tason leipomon toimintaa.
 Jaksossa pizzamestari Chris Bianco teki herkulliselta vaikuttavaa täytettyä
 pizzanhenkistä leipää. Nimeä tälle ei varsinaisesti ollut, mutta flatbreadiksi sitä
-kutsuttiin. Biancolla oli leivontaan kyllä elämänviisautta, joka pisti hymyilyttämään.
+kutsuttiin.
 
 Jaksossa leivottiin siis täytetty flatbread. Se näytti kuin se olisi foccaccian, flatbreadin
 ja pizzan yhdistelmä. Kohotusliinan päältä kaadettiin pala
@@ -45,6 +45,8 @@ askarteluprojekti ja pizzatyyli kokeilla.
 Pohja on rapea mutta pizzan sisuksen koostumus todella pehmeä
 ja ilmava. Taskuihin kertyi täytettä mukaviksi sattumiksi. Laitoin lankkuleipään Margherita
 -pizzan täytteet. Tämä lankkuleipä pizzatyylinä menee kyllä jatkoon.
+
+Muutenkin itse mestar Biancolla oli leivontaan liittyvää elämänviisautta, joka pisti hymyilyttämään.
 
 {{< columns >}}
 
